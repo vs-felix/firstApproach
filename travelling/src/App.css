@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40px;
+}
+
+.App-header {
+  background-color: #F51212;
+  height: 90px;
+  padding: 5px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.logo{
+  align-content: flex-end;
+}
+
+.AddTravelComponent{
+background-color: #DDFD0D;
+float: left;
+font-size: 16px;
+height:100%;
+}
+
+.AllTravelsComponent{
+background-color: #08A508;
+color: white;
+}
+
+.AddTravelLabels{
+  text-align: left;
+}
+
+.SearchItemsLabels{
+  text-align: left;
+}
